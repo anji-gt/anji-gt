@@ -6,11 +6,11 @@
 
 </div>
 
-- 👨‍💻 I am a frontend developer with a focus on web development in fintech Industry. I work at Singlife to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- I am a frontend developer with a focus on web development in fintech Industry. I work at Singlife to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 
 
-- 📫 The best way to reach me is send me an email to anji.gt@gmail.com.
+- The best way to reach me is send me an email to anji.gt@gmail.com.
 
 <br>
 
