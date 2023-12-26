@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anji GT ( </h1>
+<h3 align="center">Passinate Frontend developer working in latest frontend technolgies</h3>
 
-<!--
-**anji-gt/anji-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  <a href="https://www.linkedin.com/in/anji-gt-61bb8446/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I am a frontend developer with a focus on web development in fintech Industry. I work at Singlife to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+
+
+
+- 📫 The best way to reach me is send me an email to anji.gt@gmail.com.
+
+<br>
+
+<br>
