@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anji GT </h1>
-<h3 align="center">Passinate Frontend developer working in latest frontend technolgies</h3>
+<h3 align="center">Passinate Frontend Developer</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/anji-gt-61bb8446/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
